@@ -11,9 +11,10 @@ In diesem Dokument werden die wesentlichen Begriffe aus dem Anwendungsgebiet (Fa
 == Begriffe
 [%header]
 |===
-| Begriff | Definition und Erläuterung | Synonyme
-//| Kommissionierung | Bereitstellung von Waren aus einem Lager entsprechend eines Kundenauftrags | (keine)
-| xx | xx | xx
+| Name | Definition und Erläuterungen | Synonyme
+| Kommissionierung | Bereitstellung von Waren aus einem Lager entsprechend eines Kundenauftrags | (keine)
+| Bestellstaus | In welchem Status befindet sich die Bestellung | neu/bearbeitet/storniert/abgeschickt/in Bearbeitung
+
 |===
 
 

@@ -11,8 +11,21 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+* *UC01*: Bestellung aufgeben
+** *UC01.1*: Standardcocktails wählen
+** *UC01.2*: eigene Cocktails wählen
+* *UC02*: Bestellung ändern
+* *UC03*: Tagesplan einsehen --> sortiert und gefiltert
+* *UC04*: Bestellstatus ändern
+* *UC05*: Cocktail-Angebot ändern
+* *UC06*: Bestellung stornieren
+* *UC07*: Kundenkonto erstellen
+* *UC08*: Kundenkonto sperren
+* *UC09*: Rabatte hinzufügen
+** *UC010*: Versandanbieter hinzufügen
+
+
+
 
 
 == Use Case Diagramm
